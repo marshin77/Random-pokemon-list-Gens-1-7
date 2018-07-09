@@ -1,3 +1,1 @@
-# Random-pokemon-list-Gens-1-7
-# Random-pokemon-list-Gens-1-7
-# Random-pokemon-list-Gens-1-7
+# gives a random list of pokemon with user inputed length
